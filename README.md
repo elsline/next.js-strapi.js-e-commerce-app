@@ -1,6 +1,6 @@
 # E commerce website for selling tech courses using Next.js , Strapi.js
 
-![Project Logo](/screenshot.png)
+![Project Logo](/public/Screenshot.png)
 
 ## Technologies Used
 
